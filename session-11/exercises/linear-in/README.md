@@ -13,7 +13,7 @@ projects:
 [https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1](https://the-winter.github.io/codingjs/exercise.html?name=love6&title=Logic-1)
 
 Dados dos arrays de ints ordenados de forma creciente,
-devuelve true si todos os números do segundo array
+devuelve true si todos los números del segundo array
 aparecen em el primero.
 
 Nota: La mejor solución hace una sola pasada "lineal"
