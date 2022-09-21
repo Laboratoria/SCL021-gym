@@ -13,4 +13,6 @@
 - ### [Sesión 09](./session-09/session-09.md)
 - ### [Sesión 10](./session-10/session-10.md)
 - ### [Sesión 11](./session-11/session-11.md)
+- ### [Sesión 12](./session-12/session-12.md)
+- ### [Sesión 13](./session-13/session-13.md)
 
