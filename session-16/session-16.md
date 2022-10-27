@@ -6,7 +6,7 @@
 
 #### Newbie
 
-- [CSS Wash your hands](../exercises/css-wash_your_hands/)
+- [CSS Wash your hands](./exercises/css-wash_your_hands/)
 
 #### Beginner
 
