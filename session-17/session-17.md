@@ -6,17 +6,17 @@
 
 #### Beginner
 
-- [Freelancer](./exercises/freelancer-web/)
+- [Freelancer](./exercises/freelancer-web/README.md)
 
 #### Intermediate
 
-- [Lyft](./exercises/lyft-web)
+- [Lyft](./exercises/lyft-web/README.md)
 
 ### HTML/CSS/JS
 
 #### Advanced
 
-- [Rocket Lab](./exercises/rocket-lab-web)
+- [Rocket Lab](./exercises/rocket-lab-web/README.md)
 
 ## Kahoot
 

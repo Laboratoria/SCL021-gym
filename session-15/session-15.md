@@ -6,19 +6,19 @@
 
 #### Newbie
 
-- [CSS Lock Up](./exercises/css-lock-up/)
+- [CSS Lock Up](./exercises/css-lock-up/README.md)
 
 ### JavaScript
 
 #### Beginner
 
-- [Multiple of 3 or 5](./exercises/multiples-of-three-or-five/)
+- [Multiple of 3 or 5](./exercises/multiples-of-three-or-five/README.md)
 
 #### Intermediate
 
-- [Power N](./exercises/power-n/)
+- [Power N](./exercises/power-n/README.md)
 
-- [Triangle](./exercises/triangle/)
+- [Triangle](./exercises/triangle/README.md)
 
 ## Kahoot
 
